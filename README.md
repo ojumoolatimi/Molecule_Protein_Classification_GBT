@@ -114,7 +114,7 @@ BACE1       2  →   0.1%
 
 ## 👤 Author
 
-**Timi Ojumoola**
+**Ojumoola**
 - GitHub: [@ojumoolatimi](https://github.com/ojumoolatimi)
 
 ---
